@@ -71,3 +71,12 @@ After Effects, Premiere Pro, Blender, Photoshop, Illustrator
 Animation, Video Editing, Motion Design, Visual Effects, Storyboarding, 3D Animation
 
 This content and image style will fit perfectly in your portfolio alongside your Graphic Designer and AI Designer projects.
+
+# Project Overview
+Creative Learning is a self-development project focused on enhancing creativity, design thinking, and technical skills through continuous learning and practical application. The project explores various areas of graphic design, including branding, UI/UX design, motion graphics, digital illustration, and AI-powered design tools.
+
+# Vision
+My vision is to become a highly skilled and innovative Graphic Designer who creates meaningful visual experiences that inspire, engage, and communicate effectively. I aim to combine creativity, technology, and strategic thinking to develop designs that help brands build strong identities and connect with their audiences. Through continuous learning and exploration of modern design trends, AI-powered tools, and emerging technologies, I strive to contribute to the creative industry with impactful and user-centered design solutions. My goal is to establish myself as a professional designer known for creativity, originality, and excellence in visual communication.
+
+# Mission
+My mission is to deliver high-quality, visually compelling, and purpose-driven design solutions that meet the needs of clients and audiences. I am committed to continuously improving my skills in graphic design, branding, UI/UX design, motion graphics, and digital media while embracing new technologies and creative methodologies. Through dedication, innovation, and attention to detail, I aim to create designs that not only look appealing but also communicate messages effectively and achieve meaningful results. I believe in combining artistic creativity with practical problem-solving to develop engaging experiences that add value to businesses, brands, and communities.
